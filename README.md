@@ -5,4 +5,4 @@ Dataset: https://drive.google.com/file/d/1w4HxNf099lQ41mhMyXzbGwI429qBGvbY/view?
 
 download the dataset and unzip it to the DATA folder
 
-MMTD checkpoints: https://drive.google.com/file/d/1B0Xj4thKc83YNMi8NelwJhJ97i06gZ40/view?usp=sharing
+MMTD checkpoints: https://drive.google.com/file/d/1OiYxQvmp9ZNk74uhkDm0fOqYS0Q7KV78/view?usp=sharing
